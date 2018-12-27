@@ -1,6 +1,6 @@
 ﻿token=NTI3OTU2Mzg2Mzc4Njc4Mjcz.DwbRlA.iSSKfMXZM-OfFnIAnDa2Fofg6wM 
 owner=357140534529359883 
-prefix= t
-game= !thelp
+prefix= G
+game= !Ghelp
 stayinchannel=true
 songinstatus=true 
