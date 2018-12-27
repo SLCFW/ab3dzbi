@@ -1,6 +1,6 @@
 token=NTI3OTU2Mzg2Mzc4Njc4Mjcz.DwbV2g.rGPos5SynjQ_ZoEB-nnMtjMUZbE
 owner=357140534529359883 
 prefix= G
-game= !Ghelp
+game= Ghelp
 stayinchannel=true
 songinstatus=true 
